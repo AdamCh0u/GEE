@@ -1,0 +1,14 @@
+.vscode
+.log
+
+9999_write
+2101_Anaysis
+2000_Analysis
+1501_Fragstats
+1500_UrbanFormMetrics
+0000_DataBase
+
+.ipynb_checkpoints/
+.virtual_documents/
+
+.zip

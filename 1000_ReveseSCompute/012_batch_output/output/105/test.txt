@@ -1,0 +1,107 @@
+Greenock begin: 2020.02.03-21:33:00
+Greenock begin: 2020.02.03-22:42:02
+coordinate:  [-4.750030642576902, 55.93329145153005]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_56 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_57 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_55
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:0
+year begin: 1995
+less than 0.1 in:3
+year begin: 2005
+less than 0.1 in:3
+year begin: 2018
+less than 0.1 in:5
+Sunderland begin: 2020.02.03-22:43:47
+coordinate:  [-1.380029348626751, 54.92001870544817]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_55 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_56 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_54
+year begin: 1985
+less than 0.1 in:6
+year begin: 1990
+less than 0.1 in:20
+year begin: 1995
+less than 0.1 in:17
+year begin: 2005
+less than 0.1 in:21
+year begin: 2018
+less than 0.1 in:25
+Southampton begin: 2020.02.03-22:59:46
+coordinate:  [-1.3999749076388148, 50.90003208734143]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_51 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_52 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_50
+year begin: 1985
+less than 0.1 in:6
+year begin: 1990
+less than 0.1 in:9
+year begin: 1995
+less than 0.1 in:9
+year begin: 2005
+less than 0.1 in:10
+year begin: 2018
+less than 0.1 in:10
+Bristol begin: 2020.02.03-23:08:17
+coordinate:  [-2.583313308798068, 51.44999977486924]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_52 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_53 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_51
+year begin: 1985
+less than 0.1 in:8
+year begin: 1990
+less than 0.1 in:8
+year begin: 1995
+less than 0.1 in:11
+year begin: 2005
+less than 0.1 in:11
+year begin: 2018
+less than 0.1 in:12
+Bournemouth begin: 2020.02.03-23:30:32
+Greenock begin: 2020.02.04-11:42:37
+coordinate:  [-4.750030642576902, 55.93329145153005]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_56 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_57 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_55
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:0
+year begin: 1995
+less than 0.1 in:3
+year begin: 2005
+less than 0.1 in:3
+year begin: 2018
+less than 0.1 in:5
+Sunderland begin: 2020.02.04-11:43:20
+coordinate:  [-1.380029348626751, 54.92001870544817]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_55 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_56 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_54
+year begin: 1985
+less than 0.1 in:6
+year begin: 1990
+less than 0.1 in:20
+year begin: 1995
+less than 0.1 in:17
+year begin: 2005
+less than 0.1 in:21
+year begin: 2018
+less than 0.1 in:25
+Southampton begin: 2020.02.04-11:47:02
+coordinate:  [-1.3999749076388148, 50.90003208734143]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_51 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_52 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_50
+year begin: 1985
+less than 0.1 in:6
+year begin: 1990
+less than 0.1 in:9
+year begin: 1995
+less than 0.1 in:9
+year begin: 2005
+less than 0.1 in:10
+year begin: 2018
+less than 0.1 in:10
+Bristol begin: 2020.02.04-11:49:13
+coordinate:  [-2.583313308798068, 51.44999977486924]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_52 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_53 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_51
+year begin: 1985
+less than 0.1 in:8
+year begin: 1990
+less than 0.1 in:8
+year begin: 1995
+less than 0.1 in:11
+year begin: 2005
+less than 0.1 in:11
+year begin: 2018
+less than 0.1 in:12
+Bournemouth begin: 2020.02.04-11:56:28

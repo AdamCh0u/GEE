@@ -1,0 +1,42 @@
+## test101
+
+yDic = [34,29]
+path = "./output/"
+file_x = "_revers_5years"
+centerNames = ["Wuhan"]
+
+python urban.py >> ./output/101_test.txt
+
+## 102 error
+an acd
+
+
+## test 103
+
+测试日本，越南, 英国
+
+yDic = [34,29,24,14,1]
+path = "./output/103/"
+file_x = "_reversS"
+centerNames = ['Tay Ninh', 'Luan Chau', 'Bac Kan', 'Lang Son', 'Son La', 'Tuyen Quang', 'Yen Bai', 'Hai Duong', 'Thai Binh', 'Tuy Hoa', 'Thu Dau Mot', 'Dong Ha', 'Cao Lanh', 'Truc Giang', 'Tra Vinh', 'Vinh Long', 'Cao Bang', 'Greenock', 'Sunderland', 'Southampton', 'Bristol', 'Bournemouth', 'Omagh', 'Chester', 'Swansea', 'Carlisle', 'Southend-on-Sea', 'Reading', 'Leicester', 'Bradford', 'Sheffield', 'Fort William', 'Hong Gai', 'Cam Pha', 'Lao Chi', 'Hoa Binh', 'Son Tay', 'Ninh Binh', 'Viet Tri', 'Bac Giang', 'Ha Tinh', 'Buon Me Thuot', 'Da Lat', 'Phan Rang', 'Hon Quan', 'Kon Tum', 'Quang Ngai', 'Quang Tri', 'Vung Tau', 'Phan Thiet', 'Long Xuyen', 'Chau Doc', 'Rach Gia', 'Tan An', 'My Tho', 'Bac Lieu', 'Ca Mau', 'Soc Trang', 'Ha Giang', 'Ayr', 'Aberdeen', 'Perth', 'Dundee', 'Middlesbrough', 'Coventry', 'Bath', 'Exeter', 'Cambridge', 'Kingston upon Hull', 'Londonderry', 'Lisburn', 'Penzance', 'York', 'Blackpool', 'Dumfries', 'Scarborough', 'Plymouth', 'Ipswich', 'Norwich', 'Brighton', 'Kirkwall', 'Inverness', 'Oxford', 'Luton', 'Portsmouth', 'Peterborough', 'Nottingham', 'Stoke', 'Dover', 'Grytviken', 'Fox Bay', 'George Town', 'Grand Turk', 'Douglas', 'Gibraltar', 'Thai Nguyen', 'Thanh Hoa', 'Nam Dinh', 'Vinh', 'Dong Hoi', 'Edinburgh', 'Newcastle', 'Liverpool', 'Cardiff', 'Wick', 'Leeds', 'Play Ku', 'Nha Trang', 'Cam Ranh', 'Qui Nhon', 'Hue', 'Bien Hoa', 'Can Tho', 'Lerwick', 'Manchester', 'Haiphong', 'Da Nang', 'Birmingham', 'Belfast', 'Glasgow', 'Stanley', 'Hamilton', 'Hanoi', 'Ho Chi Minh City', 'London']
+status = 1
+
+python urban.py >> ./output/103/test.txt
+```python
+df = pd.read_excel("centers.xls")
+names =[]
+countrys = [ "Vietnam","United Kingdom","Japen"]
+for name in df.loc[df["SOV0NAME"].isin(countrys)]["NAMEASCII"]:
+    names.append(name)
+print(names,end = "")
+```
+加入status 
+
+, maxfev=5000
+
+## test 107
+
+英国，
+计算密度与函数拟合绘图分开
+urban_dens
+

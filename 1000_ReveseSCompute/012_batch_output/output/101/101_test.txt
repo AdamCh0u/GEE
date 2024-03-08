@@ -1,0 +1,7 @@
+Wuhan begin: 2020.02.03-00:06:15
+coordinate:  [114.26807190730287, 30.58197760967736]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_31 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_32 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_30
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:14

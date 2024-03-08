@@ -1,0 +1,498 @@
+Yen Bai begin: 2020.02.03-01:34:05
+coordinate:  [104.87500229282544, 21.70500435112577]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_23 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_21
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:1
+year begin: 1995
+less than 0.1 in:1
+year begin: 2005
+less than 0.1 in:1
+year begin: 2018
+less than 0.1 in:1
+Hai Duong begin: 2020.02.03-01:34:30
+coordinate:  [106.33100580520079, 20.942003110769587]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_21 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_20
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:3
+year begin: 1995
+Yen Bai begin: 2020.02.03-01:35:32
+coordinate:  [104.87500229282544, 21.70500435112577]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_23 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_21
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:1
+year begin: 1995
+less than 0.1 in:1
+year begin: 2005
+less than 0.1 in:1
+year begin: 2018
+less than 0.1 in:1
+Hai Duong begin: 2020.02.03-01:36:17
+coordinate:  [106.33100580520079, 20.942003110769587]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_21 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_20
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:3
+year begin: 1995
+less than 0.1 in:3
+year begin: 2005
+less than 0.1 in:4
+year begin: 2018
+less than 0.1 in:7
+Thai Binh begin: 2020.02.03-01:37:51
+coordinate:  [106.33303023707907, 20.450302496707167]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_21 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_20
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:3
+year begin: 1995
+less than 0.1 in:3
+year begin: 2005
+less than 0.1 in:3
+year begin: 2018
+less than 0.1 in:5
+Tuy Hoa begin: 2020.02.03-01:39:41
+coordinate:  [109.31599939599434, 13.082003652174237]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_14 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_15 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_13
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:2
+year begin: 1995
+less than 0.1 in:2
+year begin: 2005
+less than 0.1 in:3
+year begin: 2018
+less than 0.1 in:6
+Thu Dau Mot begin: 2020.02.03-01:41:12
+coordinate:  [106.65274332351011, 10.969071995302066]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_11 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_12 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_10
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:1
+year begin: 1995
+less than 0.1 in:2
+year begin: 2005
+less than 0.1 in:3
+year begin: 2018
+less than 0.1 in:29
+Dong Ha begin: 2020.02.03-01:45:03
+coordinate:  [107.13330064403995, 16.84999755154864]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_17 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_18 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_16
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:0
+year begin: 1995
+less than 0.1 in:0
+year begin: 2005
+less than 0.1 in:0
+year begin: 2018
+less than 0.1 in:0
+Cao Lanh begin: 2020.02.03-01:45:33
+coordinate:  [105.63599693770759, 10.466999512189329]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_11 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_12 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_10
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:0
+year begin: 1995
+less than 0.1 in:0
+year begin: 2005
+less than 0.1 in:2
+year begin: 2018
+less than 0.1 in:3
+Truc Giang begin: 2020.02.03-01:46:15
+coordinate:  [106.37499483709307, 10.234996943479592]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_11 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_12 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_10
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:1
+year begin: 1995
+less than 0.1 in:1
+year begin: 2005
+less than 0.1 in:2
+year begin: 2018
+less than 0.1 in:3
+Tra Vinh begin: 2020.02.03-01:47:32
+coordinate:  [106.33400232110873, 9.934003163270942]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_10 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_11 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_09
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:1
+year begin: 1995
+less than 0.1 in:1
+year begin: 2005
+less than 0.1 in:2
+year begin: 2018
+less than 0.1 in:2
+Vinh Long begin: 2020.02.03-01:48:42
+coordinate:  [105.964003952098, 10.256003768542374]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_11 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_12 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_10
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:1
+year begin: 1995
+less than 0.1 in:2
+year begin: 2005
+less than 0.1 in:2
+year begin: 2018
+less than 0.1 in:4
+Cao Bang begin: 2020.02.03-01:49:43
+coordinate:  [106.26800316641668, 22.663996460084057]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_23 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_24 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:0
+year begin: 1995
+less than 0.1 in:0
+year begin: 2005
+less than 0.1 in:1
+year begin: 2018
+less than 0.1 in:1
+Greenock begin: 2020.02.03-01:50:23
+coordinate:  [-4.750030642576902, 55.93329145153005]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_56 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_57 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_55
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:0
+year begin: 1995
+less than 0.1 in:3
+year begin: 2005
+less than 0.1 in:3
+year begin: 2018
+less than 0.1 in:5
+Sunderland begin: 2020.02.03-01:51:48
+coordinate:  [-1.380029348626751, 54.92001870544817]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_55 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_56 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_54
+year begin: 1985
+less than 0.1 in:6
+year begin: 1990
+less than 0.1 in:20
+year begin: 1995
+less than 0.1 in:17
+year begin: 2005
+less than 0.1 in:21
+year begin: 2018
+less than 0.1 in:25
+Southampton begin: 2020.02.03-02:00:03
+coordinate:  [-1.3999749076388148, 50.90003208734143]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_51 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_52 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_50
+year begin: 1985
+less than 0.1 in:6
+year begin: 1990
+less than 0.1 in:9
+year begin: 1995
+less than 0.1 in:9
+year begin: 2005
+less than 0.1 in:10
+year begin: 2018
+less than 0.1 in:10
+Bristol begin: 2020.02.03-02:03:46
+coordinate:  [[-2.583313308798068, 51.44999977486924], [-82.17600188947185, 36.61152500403529]]
+Bournemouth begin: 2020.02.03-02:19:14
+coordinate:  [-1.900049713479609, 50.729988727769324]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_51 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_52 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_50
+year begin: 1985
+less than 0.1 in:9
+year begin: 1990
+less than 0.1 in:9
+year begin: 1995
+less than 0.1 in:9
+year begin: 2005
+less than 0.1 in:9
+year begin: 2018
+less than 0.1 in:10
+Omagh begin: 2020.02.03-02:23:08
+coordinate:  [-7.300003252798355, 54.60001131834763]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_55 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_56 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_54
+year begin: 1985
+less than 0.1 in:1
+year begin: 1990
+less than 0.1 in:2
+year begin: 1995
+less than 0.1 in:2
+year begin: 2005
+less than 0.1 in:2
+year begin: 2018
+less than 0.1 in:3
+Chester begin: 2020.02.03-02:24:45
+coordinate:  [-2.9199888156363922, 53.2000185743046]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_54 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_55 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_53
+year begin: 1985
+less than 0.1 in:4
+year begin: 1990
+less than 0.1 in:4
+year begin: 1995
+less than 0.1 in:4
+year begin: 2005
+less than 0.1 in:5
+year begin: 2018
+less than 0.1 in:11
+Swansea begin: 2020.02.03-02:28:14
+coordinate:  [-3.950001027072909, 51.62998692979051]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_52 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_53 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_51
+year begin: 1985
+less than 0.1 in:7
+year begin: 1990
+less than 0.1 in:9
+year begin: 1995
+less than 0.1 in:7
+year begin: 2005
+less than 0.1 in:11
+year begin: 2018
+less than 0.1 in:13
+Carlisle begin: 2020.02.03-02:35:13
+coordinate:  [-2.9299861201982176, 54.87999381439244]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_55 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_56 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_54
+year begin: 1985
+less than 0.1 in:2
+year begin: 1990
+less than 0.1 in:2
+year begin: 1995
+less than 0.1 in:3
+year begin: 2005
+less than 0.1 in:3
+year begin: 2018
+less than 0.1 in:4
+Southend-on-Sea begin: 2020.02.03-02:36:44
+coordinate:  [0.7199976697967455, 51.55001741149803]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_52 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_53 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_51
+year begin: 1985
+less than 0.1 in:4
+year begin: 1990
+less than 0.1 in:6
+year begin: 1995
+less than 0.1 in:5
+year begin: 2005
+less than 0.1 in:16
+year begin: 2018
+Reading begin: 2020.02.03-02:41:50
+coordinate:  [-0.9800301477284419, 51.469972088487616]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_52 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_53 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_51
+year begin: 1985
+less than 0.1 in:6
+year begin: 1990
+less than 0.1 in:7
+year begin: 1995
+less than 0.1 in:7
+year begin: 2005
+less than 0.1 in:7
+year begin: 2018
+less than 0.1 in:7
+Leicester begin: 2020.02.03-02:45:05
+coordinate:  [-1.1332493190258954, 52.629976013834195]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_53 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_54 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_52
+year begin: 1985
+less than 0.1 in:6
+year begin: 1990
+less than 0.1 in:6
+year begin: 1995
+less than 0.1 in:7
+year begin: 2005
+less than 0.1 in:7
+year begin: 2018
+less than 0.1 in:8
+Bradford begin: 2020.02.03-02:48:02
+coordinate:  [-1.7499831266269419, 53.80003521205627]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_54 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_55 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_53
+year begin: 1985
+less than 0.1 in:6
+year begin: 1990
+less than 0.1 in:19
+year begin: 1995
+less than 0.1 in:20
+year begin: 2005
+less than 0.1 in:20
+year begin: 2018
+less than 0.1 in:21
+Sheffield begin: 2020.02.03-02:54:07
+coordinate:  [-1.499997003368659, 53.36667747617715]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_54 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_55 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_53
+year begin: 1985
+less than 0.1 in:9
+year begin: 1990
+less than 0.1 in:9
+year begin: 1995
+less than 0.1 in:12
+year begin: 2005
+less than 0.1 in:16
+year begin: 2018
+less than 0.1 in:23
+Fort William begin: 2020.02.03-02:59:10
+coordinate:  [-5.112073975308279, 56.81647884257976]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_57 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_58 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_56
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:1
+year begin: 1995
+less than 0.1 in:1
+year begin: 2005
+less than 0.1 in:1
+year begin: 2018
+less than 0.1 in:3
+Hong Gai begin: 2020.02.03-03:00:06
+coordinate:  [107.10001345467599, 20.96041027991821]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_21 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_20
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:7
+year begin: 1995
+less than 0.1 in:8
+year begin: 2005
+less than 0.1 in:8
+year begin: 2018
+less than 0.1 in:11
+Cam Pha begin: 2020.02.03-03:02:57
+coordinate:  [107.32000320514773, 21.040433307423353]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_23 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_21
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:6
+year begin: 1995
+less than 0.1 in:6
+year begin: 2005
+less than 0.1 in:7
+year begin: 2018
+less than 0.1 in:10
+Lao Chi begin: 2020.02.03-03:05:10
+coordinate:  [103.9659967066763, 22.501350749159613]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_23 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_24 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:0
+year begin: 1995
+less than 0.1 in:0
+year begin: 2005
+less than 0.1 in:0
+year begin: 2018
+less than 0.1 in:0
+Hoa Binh begin: 2020.02.03-03:06:00
+coordinate:  [105.33831626958165, 20.813701396158788]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_21 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_20
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:2
+year begin: 1995
+less than 0.1 in:2
+year begin: 2005
+less than 0.1 in:2
+year begin: 2018
+less than 0.1 in:2
+Son Tay begin: 2020.02.03-03:06:44
+coordinate:  [105.50502422156578, 21.138176802514888]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_23 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_21
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:2
+year begin: 1995
+less than 0.1 in:2
+year begin: 2005
+less than 0.1 in:2
+year begin: 2018
+less than 0.1 in:3
+Ninh Binh begin: 2020.02.03-03:07:51
+coordinate:  [105.97501793170001, 20.254307169004004]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_21 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_20
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:2
+year begin: 1995
+less than 0.1 in:2
+year begin: 2005
+less than 0.1 in:2
+year begin: 2018
+less than 0.1 in:4
+Viet Tri begin: 2020.02.03-03:09:44
+coordinate:  [105.42998646903837, 21.330413108029997]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_23 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_21
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:0
+year begin: 1995
+less than 0.1 in:0
+year begin: 2005
+less than 0.1 in:0
+year begin: 2018
+less than 0.1 in:0
+Bac Giang begin: 2020.02.03-03:10:08
+coordinate:  [106.20001971175581, 21.267009150151047]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_22 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_23 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_21
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:4
+year begin: 1995
+less than 0.1 in:4
+year begin: 2005
+less than 0.1 in:4
+year begin: 2018
+less than 0.1 in:5
+Ha Tinh begin: 2020.02.03-03:11:21
+coordinate:  [105.90003814748633, 18.33377680438592]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_19 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_20 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_18
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:0
+year begin: 1995
+less than 0.1 in:1
+year begin: 2005
+less than 0.1 in:2
+year begin: 2018
+less than 0.1 in:4
+Buon Me Thuot begin: 2020.02.03-03:12:05
+coordinate:  [108.04998480220314, 12.667044167241615]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_13 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_14 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_12
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:0
+year begin: 1995
+less than 0.1 in:0
+year begin: 2005
+less than 0.1 in:0
+year begin: 2018
+less than 0.1 in:4
+Da Lat begin: 2020.02.03-03:12:48
+coordinate:  [108.4199876303149, 11.930418509616565]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_12 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_13 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_11
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:0
+year begin: 1995
+less than 0.1 in:0
+year begin: 2005
+less than 0.1 in:3
+year begin: 2018
+less than 0.1 in:6
+Phan Rang begin: 2020.02.03-03:13:38
+coordinate:  [108.9833103254978, 11.567032987468105]
+users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_12 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_13 users/zhouzz400/GAIA_2018_lat/GAIA_1985_2018_11
+year begin: 1985
+less than 0.1 in:0
+year begin: 1990
+less than 0.1 in:2
+year begin: 1995
